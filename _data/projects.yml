@@ -1,16 +1,25 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+# Materials Informatics
+- project: SkyLab&colon;Materials Informatics
+  role: Technical Lead
+  duration: 2015&mdash;2017
+  url: "https://www.3m.com/3M/en_US/visual-attention-software-us/"
+  description: MI is the integration of data, algorithms and automation to accelerate materials discovery. 3M has dedicated >30 scientists to building a software platform for collecting data that can be shared and analyzed by humans or algorithms. 3M is also investing in leveraging robotic technology to automate formulation, sample preparation and sample characterization. Provided 3M with initial vision. Created relationships with leaders in both the academic area (<a href="https://https://www.chem.ubc.ca/curtis-berlinguette">University of British Columbia</a>, <a href="https://https://pme.uchicago.edu/group/de-pablo-group">University of Chicago</a>, <a href="https://https://www.anl.gov/profile/juan-j-de-pablo">Argonne National Labs</a>) and industry (<a href="https://www.chemspeed.com">ChemSpeed</a>, <a href="https://www.labmanautomation.com/">Labman</a>, <a href="https://www.citrine.io">Citrine</a>).
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+# Performance Matrix
+- project: Performance Matrix
+  role: Technical Lead &amp; Chief Product Owner
+  duration: 2015&mdash;2017
+  url: "https://www.3m.com/3M/en_US/visual-attention-software-us/"
+  description: Performance Matrix (PM) was developed as a collaboration between 3M HIS and Google Verily. PM is a population health management tool for hospitals that leverages medical records to make predictions about preventable events, root cause analysis for relative poor performance and help prioritize patient populations. Led a joint 3M-Google technical team to develop a proof of concept and initial production system. 
+
+
+
+# Visual Attention Service
+- project: Visual Attention Service
+  role: Lead Developer &amp; Research Scientist
+  duration: 2007&mdash;2009
+  url: "https://www.3m.com/3M/en_US/visual-attention-software-us/"
+  description: Visual Attention Service&mdash;Visual Attention Service is an on-line application that simulates the neurological properties of the human visual system to predict what people will notice in a scene in the first 3-5 seconds. Scoped and led the technical development and developed the IP strategy and contributed to the business model.
