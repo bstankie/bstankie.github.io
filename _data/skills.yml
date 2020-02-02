@@ -1,12 +1,16 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+# Program Champion
+- skill: Program Champion
+  description: I have built multiple, cross-functional research programs that include technical and business leadership. This has required communication to senior leadership (CTO, CEO, SVPs) on the vision, opportunity and risks along with providing the technical developers a clear, ambitious technical vision that they can become passionate about and is worthy of their valuable time.
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+# Technical Leadership
+- skill: Technical Leadership
+  description: In building a technical vision I have been responsible for understanding both the basic research that has been done in the area that would be applicable to a machine learning application and any intellectual property that might be blocking and/or enabling our technology that we might consider licensing. My role as a technical leader is to provide these 'guard rails' and 'technical paths' to the technical teams and to communicate to senior leadership potential risks and opportunities.
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+# Team Creation
+- skill: Organization Creation
+  description: Through some program championing, I have created multiple cross-functional application and research teams through both acquisition and hiring. The first was the research lab at the University of Texas, then the AI lab in 3M-CRL and the Data Science lab in 3M-HIS and the Materials Informatics group.
+
+# Programming skills
+- skill: Programming skills
+  description: Although my prgramming skills are becoming rusty, I work hard to get to the keyboard and do programming or some full-stack development. My preference is Python, but I also know MatLab and if necessary I could probably still pound something out in Perl. I have recently learned JavaScript to do some React programming, but would not claim competency yet. I've worked in AWS and have some experience with Azure.
