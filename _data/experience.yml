@@ -1,19 +1,25 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+# Corporate Research Labs: CRSL
+- company: 3M Corporate Research Systems Lab
+  position: Principal Data Scientist
+  duration: Jul 2017 &mdash; Present 
+  summary: Drove and developed the long-term vision of 3M Materials Informatics that focused on three technology pillars&colon; Data, Analytics and Automation. Communicated and drove vision through 3M senior leadership that created a cross-functional program with 30+ scientists and engineers. These include data scientists, software engineers, data engineers, electrical engineers and material scientists.	<ul class="resume-item-list"><li>Technical lead for Materials Informatics in 3M Corporate Research Labs.</li><li>Agile-Scrum cross functional team (software, mechanical, material science, artificial intelligence). Creating technical and business roadmaps.</li><li>Accelerating research and development by creating and nurturing external relationships with vendors ( <a href="https://www.citrine.io">Citrine</a> , <a href="https://www.chemspeed.com">ChemSpeed</a>, <a href="https://www.labmanautomation.com/">Labman</a>) and universities (<a href="https://https://www.chem.ubc.ca/curtis-berlinguette">University of British Columbia</a>, <a href="https://https://pme.uchicago.edu/group/de-pablo-group">University of Chicago</a>, <a href="https://https://www.anl.gov/profile/juan-j-de-pablo">Argonne National Labs</a>).</li></ul>
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+# 3M Health Information Systems (HIS)
+- company: 3M Health Information Systems
+  position: Principal Data Scientist
+  duration: Jul 2012 – Jul 2017
+  summary: Founded the Health Information Systems Data Science Lab and built to ten data scientists and data engineers. Developed new Natuaral Language Processing (NLP) applications and intellectual property portfolio for the business. Technical lead of a cross-company team between Google-Verily and 3M-HIS.<ul class="resume-item-list"><li>Founded Data Science Lab in 3M Health Information Systems.</li><li>Technical lead for 3M and Google-Verily <a href="https://goo.gl/4Jryme">Performance Matrix collaboration</a>.</li><li>Identify and develop new opportunities for in converting “Data to Dollars” in the 3M healthcare business.</li><li>Develop methods and tools for working with Protected Health Information (PHI) data. Worked closely with internal 3M legal and external organizations.</li></ul>
+
+# 3M Corporate Research Labs
+- company: 3M Corporate Research Systems Lab
+  position: Data Scientist
+  duration: Jul 2007 – Jul 2012
+  summary: Founded the 3M Corporate Research Artificial Intelligence lab. Hired and acquired 20 scientists that included data scientists, machine learning experts and data engineers.<ul class="resume-item-list"><li>Founder, 3M Corporate Research Labs (CRL) Artificial Intelligence Lab.</li><li>Technical lead on <a href="http://127.0.0.1:4000/resume/www.3m.com/VAS">Visual Attention Service</a>. Create computer vision algorithms for predicting where visual attention will be allocated in an image.</li></ul>
 
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+# University of Texas at Austin
+- company: University of Texa at Austin
+  position: Professor
+  duration: Jun 2001 – Jul 2007
+  summary: Developed research program focused on computer vision, virtual reality, robotics, and human navigation. Developed low-vision navigation aid technology that was patented and ultimately licensed. Taught courses in cognitive science, robotics and computer science.<ul class="resume-item-list"><li></li><li>Created second largest VR working lab in the nation at the time.</li><li>20+ publications</li></ul>
