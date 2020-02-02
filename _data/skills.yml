@@ -1,16 +1,16 @@
 # Skills
 # Program Champion
 - skill: Program Champion
-  description: I have built multiple, cross-functional research programs that include technical and business leadership. This has required communication to senior leadership (CTO, CEO, SVPs) on the vision, opportunity and risks along with providing the technical developers a clear, ambitious technical vision that they can become passionate about and is worthy of their valuable time.
+  description: I build cross-functional research programs that require technical and business leadership. These efforts include communication to senior leadership (e.g., CTO, CEO, SVPs) on the vision, opportunity and risks. It also requires a clear, ambitious technical vision that the technical teams can 'see' and become passionate about.
 
 # Technical Leadership
 - skill: Technical Leadership
-  description: In building a technical vision I have been responsible for understanding both the basic research that has been done in the area that would be applicable to a machine learning application and any intellectual property that might be blocking and/or enabling our technology that we might consider licensing. My role as a technical leader is to provide these 'guard rails' and 'technical paths' to the technical teams and to communicate to senior leadership potential risks and opportunities.
+  description: In building a technical vision, I am responsible for understanding the relevant basic, and applied research in the relevant area (usually, machine learning, computer vision, natural language processing, data science). I am also responsible for leading the intellectual property roadmap that includes evaluating exising intellectual property along with identifying potential opportunities. I have been involved with mergers and acquistion technical evaluations along with vendor evaluations. I am also responsible for providing 'guard rails' and 'technical paths' to the technical teams as they engage in research & development.
 
 # Team Creation
 - skill: Organization Creation
-  description: Through some program championing, I have created multiple cross-functional application and research teams through both acquisition and hiring. The first was the research lab at the University of Texas, then the AI lab in 3M-CRL and the Data Science lab in 3M-HIS and the Materials Informatics group.
+  description: Through program championing, I have been the founder of multiple cross-functional application and research teams through both internal acquisition and external hiring. This started in creating the Shape & Space Lab at the University of Texas, then the AI lab in 3M-Corporate Research Labs, and the Data Science lab in 3M-Health Information Systems.
 
 # Programming skills
 - skill: Programming skills
-  description: Although I feel that my programming skills are becoming rusty, I work hard to get to the keyboard and do programming or some full-stack hacking whenever I can (even if it is on my personal time). I feel that it is necessary to keep current so that I do not inadvertently misdirect a technical team and that I can retain credibility when making recommendations. My programming preference is Python, but I also know MatLab and if necessary I could probably still pound something out in Perl. I have recently taught myself React + JavaScript, but would not claim competency. I've worked in AWS and have experience with Azure.
+  description: Although I feel that my programming skills are becoming rusty, I work hard to get to the keyboard and program or some full-stack hacking whenever I can (even if it is on my personal time). I feel that it is necessary to keep current so that I do not inadvertently misdirect a technical team and that I can retain credibility when making recommendations. My programming preference is Python, but I also know MatLab and if necessary I could probably still pound something out in Perl. I have recently taught myself React + JavaScript, but would not claim competency. I've worked in AWS and have experience with Azure.
