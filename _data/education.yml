@@ -1,13 +1,13 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
-  awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+- degree: Bachelor of Arts, Cognitive Psychology
+  uni: University of California, Los Angeles
+  year: 1997
+  #awards:
+  #  - award: Summa Cumme Laude graduate
+  summary: My dissertation focused on human and computer vision and the role that attention plays in creating robust representations of object shape. My work encompassed creating neural network models of human object recognition and testing the novel predictions made by those models by running empirical studies on the human visual system.<ul class="resume-item-list"><li>Advisor&colon; John E. Hummel, Ph.D.
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+- degree: B.A. Cognitive Psychology
+  uni: University of California at Irvine
+  year: 1991
+  #award: Most likely to succeed
+  summary: Worked in the Brain Imaging Center, David LaBerge lab in human visual attention. Photo editor for the New University newspaper.
