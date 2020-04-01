@@ -15,8 +15,6 @@
   url: "https://www.3m.com/3M/en_US/visual-attention-software-us/"
   description: Performance Matrix (PM) was developed as a collaboration between 3M HIS and Google Verily. PM is a population health management tool for hospitals that leverages medical records to make predictions about preventable events, root cause analysis for relative poor performance and help prioritize patient populations. Led a joint 3M-Google technical team to develop a proof of concept and initial production system. 
 
-
-
 # Visual Attention Service
 - project: Visual Attention Service
   role: Lead Developer &amp; Research Scientist
