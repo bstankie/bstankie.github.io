@@ -20,10 +20,10 @@ resume_contact_email:           "brian@stankiewiczfamily.org"
 resume_contact_telephone:       "612-306-5432"
 resume_contact_address:         "St. Paul, MN"
 
-resume_header_contact_info:     "St. Paul, MN • 612-306-5432 • brian@stankiewiczfamily.org"
+resume_header_contact_info:     "St. Paul, MN • 612-306-5432 • bstankie@gmail.com"
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p>The teams I lead solve hard, valuable and  impactful technical problems by leveraging data and artificial intelligence. These problems typically start on the ‘fuzzy front end’ in which the path from ‘here to success’ is often not immediately apparent. Working with the teams we work to  simplify the problem to the key questions that need to be answered and/or the biggest risk items and drive the research and development at those items. This has lead to multiple products or a deep understanding of why the goal is currently unobtainable.</p>"
+resume_header_intro: "<p>I am a builder of products, technology, teams and capabilities. Technology is continuously evolving and to fully leverage the evoloution it requires a clear vision, strong leadership and unrelenting courage to transform a potential opportunity into reality. It requires getting the best out of everyone by creating a safe environment where team members can safely suggest and disagree with potential solutions to come to the best possible solution. However, when a clear decision is made, everyone is commited to making that decision successful. Successful transformation requires influencing an orgaization at the macro level through vision and opportunity while simultaneously coaching the technical teams at the individual level. I can write code on a project and then turn around and present a long-term technical vision with a business and technology roadmap to executives. I know how to attract the best minds from universities and develop long-term relationships with professors to build a high-quality hiring pipeline and I have coached and developed existing talent within an organization to help transform an organization's capabilities.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -51,7 +51,7 @@ resume_social_links:
   # resume_facebook_url:          "insert Facebook URL here"
   resume_linkedin_url:          "https://www.linkedin.com/in/brianstankiewicz/"
   # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "http://BrianStankiewicz.com"
+  resume_website_url:           "http://www.bstankie.com"
   #resume_medium_url:            "https://medium.com/@jglovier"
 resume_print_social_links:      true
 

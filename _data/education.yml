@@ -6,19 +6,26 @@
   #  - award: Summa Cumme Laude graduate
   summary: My dissertation focused on human and computer vision and the role that attention plays in creating robust representations of object shape. My work encompassed creating neural network models of human object recognition and testing the novel predictions made by those models by running empirical studies on the human visual system.<ul class="resume-item-list"><li>Advisor&colon; John E. Hummel, Ph.D.
 
-- degree: B.A. Cognitive Psychology
-  uni: University of California at Irvine
-  year: 1991
-  #award: Most likely to succeed
-  summary: Worked in the Brain Imaging Center, David LaBerge lab in human visual attention. Photo editor for the New University newspaper.
-
 - degree: Structuring Machine Learning Projects
   uni: Coursera
   year: 2018
-  summary: Course teaching modern machine learning and deep learning techniques and tools. (<a href="https://coursera.org/account/accomplishments/certificate/Z25M6QJZ7F9J" target="_blank">Certificate</a>)
+  summary: Course teaching modern machine learning and deep learning techniques and tools. (<a href="https://coursera.org/share/8117ccc5b895b6743d74313665811c0c" target="_blank">Certificate</a>)
+
+- degree: Neural Networks and Deep Learning
+  uni: Coursera
+  year: 2018
+  summary: Course teaching modern machine learning and deep learning techniques and tools. (<a href="https://coursera.org/share/8117ccc5b895b6743d74313665811c0c" target="_blank">Certificate</a>)
+
 
 - degree: AWS Practitioner Certification
   uni: AWS
   year: 2020
   summary: My AWS <a href="https://www.certmetrics.com/amazon/public/badge.aspx?i=9&t=c&d=2020-04-01&ci=AWS00391976" target="_blank">Certificate</a> The AWS Certified Cloud Practitioner examination is intended for individuals who have the knowledge and skills necessary to effectively demonstrate an overall understanding of the AWS Cloud, independent of specific technical roles addressed by other AWS Certifications.
+
+
+- degree: B.A. Cognitive Psychology
+  uni: University of California at Irvine
+  year: 1991
+  #award: Most likely to succeed
+  summary: Worked in the Brain Imaging Center, David LaBerge lab in human visual attention. Photo editor for the New University newspaper.
 
