@@ -11,10 +11,10 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Brian J. Stankiewicz, Ph.D."
-resume_title:                   "3M Data Scientist"
+resume_title:                   "Data Scientist: Tech. Evangelist"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "brian@stankiewiczfamily.org"
+resume_contact_email:           "bstankie@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone:       "612-306-5432"
@@ -23,7 +23,7 @@ resume_contact_address:         "St. Paul, MN"
 resume_header_contact_info:     "St. Paul, MN • 612-306-5432 • bstankie@gmail.com"
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p>I am a builder of products, technology, teams and capabilities. Technology is continuously evolving and to fully leverage the evoloution it requires a clear vision, strong leadership and unrelenting courage to transform a potential opportunity into reality. It requires getting the best out of everyone by creating a safe environment where team members can safely suggest and disagree with potential solutions to come to the best possible solution. However, when a clear decision is made, everyone is commited to making that decision successful. Successful transformation requires influencing an orgaization at the macro level through vision and opportunity while simultaneously coaching the technical teams at the individual level. I can write code on a project and then turn around and present a long-term technical vision with a business and technology roadmap to executives. I know how to attract the best minds from universities and develop long-term relationships with professors to build a high-quality hiring pipeline and I have coached and developed existing talent within an organization to help transform an organization's capabilities.</p>"
+resume_header_intro: "<p>My passion is turning potential technical opportunities into reality. I am a builder of products, technology, teams and capabilities. I can write code, discuss technical solutions with engineers and then turn around and present a long-term business and technology roadmap to executives and technical teams. Some of these efforts have led new commercial 'bit-based' opportunities in an 'atom-based' fortune 500 company. In the process I have had the priviledge of serving as a 'bit-based technology mentor' to executives and simultaneously had the honor to serve as a coach for talented engineers who wanted to expand their skills in machine learning, data science and/or software engineering. I have an insatiable curiosity, relentless courage, and exercise servent leadership by practicing (and evangalizing) the 'Disagree and Commit' philosophy. These efforts are never done alone, so finding, attracting and unleashing the brightest minds on problems is vital for near-term execution and long-term sustainability. I have been most successful in attracting these minds when they understand the root problem and that finding the solutions is 'worthy of their time'. But just as important, these bright minds need to know that they can influence the direction and scope of the project.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
